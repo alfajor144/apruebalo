@@ -1,0 +1,41 @@
+.img-foto{
+
+    /* width: 30%; */
+
+    /* background-color: orange; */
+}
+
+img {
+    width: 150px;
+    margin: 10px;
+    box-shadow: 5px 5px 10px;
+    border-radius: 50% 50%;
+}
+
+
+.titulo-perfil {
+    width: auto;
+    /* background-color: papayawhip; */
+    padding-top: 50px;
+
+}
+
+.titulo-parrafo {
+    margin: 15px;
+}
+
+header {
+    height: 420px;
+    width: 100%;
+    padding: 0px;
+}
+
+.masthead {
+    /*margin: 0px; */
+    padding: 120px 30px 30px 60px;
+}
+
+.datos {
+    min-height: 500px;
+}
+
